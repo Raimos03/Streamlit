@@ -13,7 +13,7 @@ st.text("Base World - Pedro Lima - 26-06-2023")
 
 
 st.header("Respostas elencadas:")
-st.markdown('\n##### 1 - Quais países possuem expectativa de vida maior que 60 anos com porcentagem maior  que 70% de uma unica lingua no continente europeu?')
+st.markdown('\n##### 1 - Quais países possuem expectativa de vida maior que 73 anos com porcentagem maior  que 70% de uma unica lingua no continente europeu?')
 #st.markdown('\n##### 2 - Pergunta 2?')
 
 st.text("Populacao x Pais")
